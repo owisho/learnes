@@ -11,7 +11,7 @@
     </parent>
     <artifactId>learnes</artifactId>
     <properties>
-        <es.version>2.4.6</es.version>
+        <es.version>6.8.15</es.version>
     </properties>
     <dependencies>
         <dependency>
